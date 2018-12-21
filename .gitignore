@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/Ligue1/.vs
+/Ligue1/Ligue1.Business/bin
+/Ligue1/Ligue1.Business/obj
+/Ligue1/Ligue1.Business.Common/bin
+/Ligue1/Ligue1.Business.Common/obj
+/Ligue1/Ligue1.Business.Entities/bin
+/Ligue1/Ligue1.Business.Entities/obj
